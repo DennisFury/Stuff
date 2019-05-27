@@ -1,2 +1,2 @@
 # wat dis?
-personal pi-hole blacklist
+personal pi-hole blocklist
