@@ -1,1 +1,2 @@
-# Stuff
+# wat dis?
+personal pi-hole blacklist
